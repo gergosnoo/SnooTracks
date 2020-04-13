@@ -1,0 +1,610 @@
+{
+    "activities": [
+        {
+            "name": "TimeTracker \u2013 auto_tracker.py PyCharm",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2020-04-13 22:00:13",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 12,
+                    "start_time": "2020-04-13 22:00:01"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-04-13 22:00:56",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 7,
+                    "start_time": "2020-04-13 22:00:49"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-04-13 22:01:45",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 4,
+                    "start_time": "2020-04-13 22:01:41"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-04-13 22:13:45",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 3,
+                    "start_time": "2020-04-13 22:13:42"
+                }
+            ]
+        },
+        {
+            "name": "",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2020-04-13 22:00:24",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 11,
+                    "start_time": "2020-04-13 22:00:13"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-04-13 22:00:49",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 9,
+                    "start_time": "2020-04-13 22:00:39"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-04-13 22:01:46",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2020-04-13 22:01:45"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-04-13 22:02:36",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 48,
+                    "start_time": "2020-04-13 22:01:47"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-04-13 22:02:56",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 10,
+                    "start_time": "2020-04-13 22:02:45"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-04-13 22:03:57",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 21,
+                    "start_time": "2020-04-13 22:03:35"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-04-13 22:04:42",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 39,
+                    "start_time": "2020-04-13 22:04:02"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-04-13 22:06:14",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 48,
+                    "start_time": "2020-04-13 22:05:25"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-04-13 22:06:27",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2020-04-13 22:06:26"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-04-13 22:11:35",
+                    "hours": 0,
+                    "minutes": 1,
+                    "seconds": 3,
+                    "start_time": "2020-04-13 22:10:32"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-04-13 22:11:51",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 14,
+                    "start_time": "2020-04-13 22:11:37"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-04-13 22:13:33",
+                    "hours": 0,
+                    "minutes": 1,
+                    "seconds": 39,
+                    "start_time": "2020-04-13 22:11:53"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-04-13 22:15:40",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 4,
+                    "start_time": "2020-04-13 22:15:36"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-04-13 22:18:28",
+                    "hours": 0,
+                    "minutes": 2,
+                    "seconds": 45,
+                    "start_time": "2020-04-13 22:15:43"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-04-13 22:19:10",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 15,
+                    "start_time": "2020-04-13 22:18:54"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-04-13 22:19:27",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 2,
+                    "start_time": "2020-04-13 22:19:25"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-04-13 22:32:15",
+                    "hours": 0,
+                    "minutes": 11,
+                    "seconds": 22,
+                    "start_time": "2020-04-13 22:20:53"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-04-13 22:32:57",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 35,
+                    "start_time": "2020-04-13 22:32:22"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-04-13 22:33:53",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 50,
+                    "start_time": "2020-04-13 22:33:02"
+                }
+            ]
+        },
+        {
+            "name": "Snoo Stocks",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2020-04-13 22:00:39",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 14,
+                    "start_time": "2020-04-13 22:00:24"
+                }
+            ]
+        },
+        {
+            "name": "TimeTracker \u2013 activities.json PyCharm",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2020-04-13 22:01:34",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 38,
+                    "start_time": "2020-04-13 22:00:56"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-04-13 22:02:45",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 8,
+                    "start_time": "2020-04-13 22:02:36"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-04-13 22:03:35",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 39,
+                    "start_time": "2020-04-13 22:02:56"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-04-13 22:04:02",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 4,
+                    "start_time": "2020-04-13 22:03:57"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-04-13 22:05:18",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 26,
+                    "start_time": "2020-04-13 22:04:51"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-04-13 22:07:19",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 52,
+                    "start_time": "2020-04-13 22:06:27"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-04-13 22:10:32",
+                    "hours": 0,
+                    "minutes": 2,
+                    "seconds": 47,
+                    "start_time": "2020-04-13 22:07:44"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-04-13 22:13:42",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 9,
+                    "start_time": "2020-04-13 22:13:33"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-04-13 22:15:36",
+                    "hours": 0,
+                    "minutes": 1,
+                    "seconds": 50,
+                    "start_time": "2020-04-13 22:13:45"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-04-13 22:18:54",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 25,
+                    "start_time": "2020-04-13 22:18:28"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-04-13 22:19:37",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 10,
+                    "start_time": "2020-04-13 22:19:27"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-04-13 22:20:51",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 21,
+                    "start_time": "2020-04-13 22:20:30"
+                }
+            ]
+        },
+        {
+            "name": "TimeTracker \u2013 @AutomationLog.txt PyCharm",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2020-04-13 22:01:41",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 7,
+                    "start_time": "2020-04-13 22:01:34"
+                }
+            ]
+        },
+        {
+            "name": "facebook.com",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2020-04-13 22:01:47",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2020-04-13 22:01:46"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-04-13 22:11:53",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2020-04-13 22:11:51"
+                }
+            ]
+        },
+        {
+            "name": "\n",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2020-04-13 22:04:43",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2020-04-13 22:04:42"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-04-13 22:05:25",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 7,
+                    "start_time": "2020-04-13 22:05:18"
+                }
+            ]
+        },
+        {
+            "name": "AcitivyList python",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2020-04-13 22:04:51",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 8,
+                    "start_time": "2020-04-13 22:04:43"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-04-13 22:32:22",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 6,
+                    "start_time": "2020-04-13 22:32:15"
+                }
+            ]
+        },
+        {
+            "name": "File Explorer",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2020-04-13 22:06:19",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 5,
+                    "start_time": "2020-04-13 22:06:14"
+                }
+            ]
+        },
+        {
+            "name": "110GOPRO",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2020-04-13 22:06:26",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 7,
+                    "start_time": "2020-04-13 22:06:19"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-04-13 22:19:40",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 3,
+                    "start_time": "2020-04-13 22:19:37"
+                }
+            ]
+        },
+        {
+            "name": "Commit Changes",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2020-04-13 22:07:23",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 4,
+                    "start_time": "2020-04-13 22:07:19"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-04-13 22:07:42",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 17,
+                    "start_time": "2020-04-13 22:07:25"
+                }
+            ]
+        },
+        {
+            "name": "Commit Message Is Empty",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2020-04-13 22:07:25",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 2,
+                    "start_time": "2020-04-13 22:07:23"
+                }
+            ]
+        },
+        {
+            "name": "Push Commits to TimeTracker",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2020-04-13 22:07:44",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 2,
+                    "start_time": "2020-04-13 22:07:42"
+                }
+            ]
+        },
+        {
+            "name": "online-go.com",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2020-04-13 22:11:37",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 2,
+                    "start_time": "2020-04-13 22:11:35"
+                }
+            ]
+        },
+        {
+            "name": "marvelmagyarorszag.blog.hu",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2020-04-13 22:15:43",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 2,
+                    "start_time": "2020-04-13 22:15:40"
+                }
+            ]
+        },
+        {
+            "name": "Save As",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2020-04-13 22:19:25",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 15,
+                    "start_time": "2020-04-13 22:19:10"
+                }
+            ]
+        },
+        {
+            "name": "Acer (G:)",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2020-04-13 22:19:43",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 3,
+                    "start_time": "2020-04-13 22:19:40"
+                }
+            ]
+        },
+        {
+            "name": "TimeTracker",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2020-04-13 22:20:04",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 21,
+                    "start_time": "2020-04-13 22:19:43"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-04-13 22:20:24",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 11,
+                    "start_time": "2020-04-13 22:20:13"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-04-13 22:20:30",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 5,
+                    "start_time": "2020-04-13 22:20:25"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-04-13 22:20:53",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 2,
+                    "start_time": "2020-04-13 22:20:51"
+                }
+            ]
+        },
+        {
+            "name": "__pycache__",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2020-04-13 22:20:13",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 9,
+                    "start_time": "2020-04-13 22:20:04"
+                }
+            ]
+        },
+        {
+            "name": "Delete Multiple Items",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2020-04-13 22:20:25",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2020-04-13 22:20:24"
+                }
+            ]
+        },
+        {
+            "name": "ecosia.org",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2020-04-13 22:32:58",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2020-04-13 22:32:57"
+                }
+            ]
+        },
+        {
+            "name": "habitica python",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2020-04-13 22:33:02",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 4,
+                    "start_time": "2020-04-13 22:32:58"
+                }
+            ]
+        }
+    ]
+}
