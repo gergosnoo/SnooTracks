@@ -3,7 +3,7 @@ import uiautomation as auto
 from time import sleep
 import datetime
 import json
-from activity import *
+from TimeTracker.activity import *
 
 
 active_window_name = ""
@@ -14,8 +14,9 @@ first_time = True
 
 
 def url_to_name(url):
-    string_list = url.split('/')
-    return string_list[2]
+    string_list = url
+    #print(url)
+    return string_list
 
 
 def get_active_window():
@@ -25,11 +26,13 @@ def get_active_window():
     return _active_window_name
 
 
-def get_chrome_url():
+def get_chrome_tab_name():
     window = win32gui.GetForegroundWindow()
+
     chrome_control = auto.ControlFromHandle(window)
     edit = chrome_control.EditControl()
-    return 'https://' + edit.GetValuePattern().Value
+
+    return chrome_control.Name[:chrome_control.Name.find(' - Google')]
 
 
 try:
@@ -42,7 +45,7 @@ try:
         previous_site = ""
         new_window_name = get_active_window()
         if 'Google Chrome' in new_window_name:
-            new_window_name = url_to_name(get_chrome_url())
+            new_window_name = get_chrome_tab_name()
 
         if active_window_name != new_window_name:
             print(active_window_name)

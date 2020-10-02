@@ -1,0 +1,54 @@
+{
+    "activities": [
+        {
+            "name": "SnooTracks \u2013 activities.json PyCharm",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2020-10-03 01:04:45",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 4,
+                    "start_time": "2020-10-03 01:04:41"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-10-03 01:05:00",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 3,
+                    "start_time": "2020-10-03 01:04:57"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-10-03 01:06:36",
+                    "hours": 0,
+                    "minutes": 1,
+                    "seconds": 31,
+                    "start_time": "2020-10-03 01:05:05"
+                }
+            ]
+        },
+        {
+            "name": "SnooTracks \u2013 activity.py PyCharm",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2020-10-03 01:04:48",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 3,
+                    "start_time": "2020-10-03 01:04:45"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-10-03 01:05:05",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 5,
+                    "start_time": "2020-10-03 01:05:00"
+                }
+            ]
+        }
+    ]
+}
