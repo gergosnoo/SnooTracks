@@ -34,6 +34,142 @@
                     "minutes": 0,
                     "seconds": 3,
                     "start_time": "2020-04-13 22:13:42"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-10-02 22:11:02",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 6,
+                    "start_time": "2020-10-02 22:10:56"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-10-02 22:13:25",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 36,
+                    "start_time": "2020-10-02 22:12:49"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-10-02 22:13:52",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 9,
+                    "start_time": "2020-10-02 22:13:43"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-10-02 22:14:05",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 5,
+                    "start_time": "2020-10-02 22:14:00"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-10-02 22:14:11",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 2,
+                    "start_time": "2020-10-02 22:14:09"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-10-02 22:14:54",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 6,
+                    "start_time": "2020-10-02 22:14:48"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-10-02 22:15:09",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 9,
+                    "start_time": "2020-10-02 22:15:00"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-10-02 22:15:19",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 4,
+                    "start_time": "2020-10-02 22:15:15"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-10-02 22:15:31",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 3,
+                    "start_time": "2020-10-02 22:15:28"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-10-02 22:15:37",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 2,
+                    "start_time": "2020-10-02 22:15:35"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-10-02 22:16:02",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 4,
+                    "start_time": "2020-10-02 22:15:58"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-10-02 22:16:09",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2020-10-02 22:16:08"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-10-02 22:18:53",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 10,
+                    "start_time": "2020-10-02 22:18:43"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-10-02 22:22:35",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 43,
+                    "start_time": "2020-10-02 22:21:52"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-10-02 22:23:42",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2020-10-02 22:23:41"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-10-02 22:24:06",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 16,
+                    "start_time": "2020-10-02 22:23:50"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-10-02 22:24:15",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 4,
+                    "start_time": "2020-10-02 22:24:11"
                 }
             ]
         },
@@ -191,6 +327,470 @@
                     "minutes": 0,
                     "seconds": 50,
                     "start_time": "2020-04-13 22:33:02"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-10-02 22:11:06",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 2,
+                    "start_time": "2020-10-02 22:11:03"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-10-02 22:14:57",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 3,
+                    "start_time": "2020-10-02 22:14:54"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-10-02 22:18:43",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 5,
+                    "start_time": "2020-10-02 22:18:38"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-10-02 22:21:05",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2020-10-02 22:21:04"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-10-02 22:25:14",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2020-10-02 22:25:13"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-10-02 22:25:45",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 4,
+                    "start_time": "2020-10-02 22:25:41"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-10-02 22:28:48",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 17,
+                    "start_time": "2020-10-02 22:28:31"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-10-02 22:29:12",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 7,
+                    "start_time": "2020-10-02 22:29:05"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-10-02 22:29:14",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2020-10-02 22:29:13"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-10-02 22:29:25",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2020-10-02 22:29:24"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-10-02 22:36:38",
+                    "hours": 0,
+                    "minutes": 2,
+                    "seconds": 50,
+                    "start_time": "2020-10-02 22:33:48"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-10-02 22:38:43",
+                    "hours": 0,
+                    "minutes": 1,
+                    "seconds": 35,
+                    "start_time": "2020-10-02 22:37:07"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-10-02 22:41:26",
+                    "hours": 0,
+                    "minutes": 1,
+                    "seconds": 13,
+                    "start_time": "2020-10-02 22:40:12"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-10-02 22:41:35",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2020-10-02 22:41:34"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-10-02 22:43:46",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2020-10-02 22:43:45"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-10-02 22:45:34",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 25,
+                    "start_time": "2020-10-02 22:45:09"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-10-02 22:45:53",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 14,
+                    "start_time": "2020-10-02 22:45:39"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-10-02 22:45:57",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2020-10-02 22:45:56"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-10-02 22:46:06",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 7,
+                    "start_time": "2020-10-02 22:45:58"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-10-02 22:46:34",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 17,
+                    "start_time": "2020-10-02 22:46:17"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-10-02 22:46:38",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 2,
+                    "start_time": "2020-10-02 22:46:36"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-10-02 22:46:57",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 15,
+                    "start_time": "2020-10-02 22:46:42"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-10-02 22:56:06",
+                    "hours": 0,
+                    "minutes": 3,
+                    "seconds": 52,
+                    "start_time": "2020-10-02 22:52:14"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-10-02 22:56:17",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 2,
+                    "start_time": "2020-10-02 22:56:15"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-10-02 22:56:25",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2020-10-02 22:56:24"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-10-02 22:57:29",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2020-10-02 22:57:28"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-10-02 22:57:42",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 9,
+                    "start_time": "2020-10-02 22:57:33"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-10-02 22:58:39",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 4,
+                    "start_time": "2020-10-02 22:58:35"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-10-02 22:58:51",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 4,
+                    "start_time": "2020-10-02 22:58:47"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-10-02 22:59:03",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2020-10-02 22:59:02"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-10-02 22:59:08",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 3,
+                    "start_time": "2020-10-02 22:59:05"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-10-02 22:59:24",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 5,
+                    "start_time": "2020-10-02 22:59:19"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-10-02 23:01:31",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 3,
+                    "start_time": "2020-10-02 23:01:28"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-10-02 23:01:37",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 3,
+                    "start_time": "2020-10-02 23:01:34"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-10-02 23:01:48",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 2,
+                    "start_time": "2020-10-02 23:01:46"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-10-02 23:02:23",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 2,
+                    "start_time": "2020-10-02 23:02:21"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-10-02 23:02:27",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 3,
+                    "start_time": "2020-10-02 23:02:24"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-10-02 23:02:30",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 2,
+                    "start_time": "2020-10-02 23:02:28"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-10-02 23:02:50",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2020-10-02 23:02:49"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-10-02 23:03:12",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 3,
+                    "start_time": "2020-10-02 23:03:09"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-10-02 23:03:59",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 5,
+                    "start_time": "2020-10-02 23:03:54"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-10-02 23:04:07",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 5,
+                    "start_time": "2020-10-02 23:04:02"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-10-02 23:04:11",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 2,
+                    "start_time": "2020-10-02 23:04:09"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-10-02 23:04:24",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 5,
+                    "start_time": "2020-10-02 23:04:19"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-10-02 23:06:09",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 31,
+                    "start_time": "2020-10-02 23:05:38"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-10-02 23:06:19",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 3,
+                    "start_time": "2020-10-02 23:06:16"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-10-02 23:06:37",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 2,
+                    "start_time": "2020-10-02 23:06:35"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-10-02 23:06:50",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 2,
+                    "start_time": "2020-10-02 23:06:48"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-10-02 23:08:57",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2020-10-02 23:08:56"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-10-02 23:09:19",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2020-10-02 23:09:18"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-10-02 23:10:06",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2020-10-02 23:10:05"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-10-02 23:10:41",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 2,
+                    "start_time": "2020-10-02 23:10:39"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-10-02 23:11:15",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 12,
+                    "start_time": "2020-10-02 23:11:03"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-10-02 23:11:26",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 4,
+                    "start_time": "2020-10-02 23:11:22"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-10-02 23:11:43",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 3,
+                    "start_time": "2020-10-02 23:11:39"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-10-02 23:12:18",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 32,
+                    "start_time": "2020-10-02 23:11:46"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-10-02 23:12:45",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 25,
+                    "start_time": "2020-10-02 23:12:19"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-10-02 23:12:55",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2020-10-02 23:12:54"
                 }
             ]
         },
@@ -305,6 +905,38 @@
                     "minutes": 0,
                     "seconds": 21,
                     "start_time": "2020-04-13 22:20:30"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-10-02 22:19:41",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 48,
+                    "start_time": "2020-10-02 22:18:53"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-10-02 22:21:04",
+                    "hours": 0,
+                    "minutes": 1,
+                    "seconds": 17,
+                    "start_time": "2020-10-02 22:19:47"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-10-02 22:21:28",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 13,
+                    "start_time": "2020-10-02 22:21:15"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-10-02 22:21:52",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2020-10-02 22:21:51"
                 }
             ]
         },
@@ -318,6 +950,22 @@
                     "minutes": 0,
                     "seconds": 7,
                     "start_time": "2020-04-13 22:01:34"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-10-02 22:21:49",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 2,
+                    "start_time": "2020-10-02 22:21:47"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-10-02 22:21:51",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2020-10-02 22:21:50"
                 }
             ]
         },
@@ -339,6 +987,38 @@
                     "minutes": 0,
                     "seconds": 1,
                     "start_time": "2020-04-13 22:11:51"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-10-02 22:11:18",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 12,
+                    "start_time": "2020-10-02 22:11:06"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-10-02 22:12:05",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 7,
+                    "start_time": "2020-10-02 22:11:57"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-10-02 22:17:05",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 18,
+                    "start_time": "2020-10-02 22:16:46"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-10-02 22:17:34",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2020-10-02 22:17:32"
                 }
             ]
         },
@@ -360,6 +1040,62 @@
                     "minutes": 0,
                     "seconds": 7,
                     "start_time": "2020-04-13 22:05:18"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-10-02 22:11:37",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 19,
+                    "start_time": "2020-10-02 22:11:18"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-10-02 22:12:37",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 31,
+                    "start_time": "2020-10-02 22:12:05"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-10-02 22:12:49",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2020-10-02 22:12:48"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-10-02 22:14:48",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 17,
+                    "start_time": "2020-10-02 22:14:31"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-10-02 22:16:46",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 33,
+                    "start_time": "2020-10-02 22:16:13"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-10-02 22:17:32",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 27,
+                    "start_time": "2020-10-02 22:17:05"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-10-02 22:18:38",
+                    "hours": 0,
+                    "minutes": 1,
+                    "seconds": 4,
+                    "start_time": "2020-10-02 22:17:34"
                 }
             ]
         },
@@ -501,6 +1237,30 @@
                     "minutes": 0,
                     "seconds": 15,
                     "start_time": "2020-04-13 22:19:10"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-10-02 22:41:33",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 6,
+                    "start_time": "2020-10-02 22:41:27"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-10-02 22:45:55",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 2,
+                    "start_time": "2020-10-02 22:45:53"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-10-02 22:46:36",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 2,
+                    "start_time": "2020-10-02 22:46:34"
                 }
             ]
         },
@@ -514,6 +1274,22 @@
                     "minutes": 0,
                     "seconds": 3,
                     "start_time": "2020-04-13 22:19:40"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-10-02 23:13:03",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 5,
+                    "start_time": "2020-10-02 23:12:58"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-10-02 23:13:11",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 6,
+                    "start_time": "2020-10-02 23:13:05"
                 }
             ]
         },
@@ -551,6 +1327,14 @@
                     "minutes": 0,
                     "seconds": 2,
                     "start_time": "2020-04-13 22:20:51"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-10-02 23:13:05",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 2,
+                    "start_time": "2020-10-02 23:13:03"
                 }
             ]
         },
@@ -603,6 +1387,1571 @@
                     "minutes": 0,
                     "seconds": 4,
                     "start_time": "2020-04-13 22:32:58"
+                }
+            ]
+        },
+        {
+            "name": "github.com",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2020-10-02 22:11:03",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2020-10-02 22:11:02"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-10-02 22:29:13",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2020-10-02 22:29:12"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-10-02 23:11:46",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 3,
+                    "start_time": "2020-10-02 23:11:43"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-10-02 23:12:19",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2020-10-02 23:12:18"
+                }
+            ]
+        },
+        {
+            "name": "m",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2020-10-02 22:11:44",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 6,
+                    "start_time": "2020-10-02 22:11:37"
+                }
+            ]
+        },
+        {
+            "name": "most nem ",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2020-10-02 22:11:50",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 6,
+                    "start_time": "2020-10-02 22:11:44"
+                }
+            ]
+        },
+        {
+            "name": "most inkabb kihagyom",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2020-10-02 22:11:57",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 6,
+                    "start_time": "2020-10-02 22:11:50"
+                }
+            ]
+        },
+        {
+            "name": "Welcome - Visual Studio Code",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2020-10-02 22:12:43",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 6,
+                    "start_time": "2020-10-02 22:12:37"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-10-02 22:12:48",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2020-10-02 22:12:47"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-10-02 22:47:04",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 2,
+                    "start_time": "2020-10-02 22:47:02"
+                }
+            ]
+        },
+        {
+            "name": "Open Folder",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2020-10-02 22:12:47",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 4,
+                    "start_time": "2020-10-02 22:12:43"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-10-02 22:47:12",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 7,
+                    "start_time": "2020-10-02 22:47:05"
+                }
+            ]
+        },
+        {
+            "name": "Telegram (1)",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2020-10-02 22:13:43",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 18,
+                    "start_time": "2020-10-02 22:13:25"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-10-02 22:14:00",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 8,
+                    "start_time": "2020-10-02 22:13:52"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-10-02 22:14:17",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 6,
+                    "start_time": "2020-10-02 22:14:11"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-10-02 22:14:31",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2020-10-02 22:14:29"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-10-02 22:15:53",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 16,
+                    "start_time": "2020-10-02 22:15:37"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-10-02 22:15:58",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 4,
+                    "start_time": "2020-10-02 22:15:54"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-10-02 22:16:13",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 3,
+                    "start_time": "2020-10-02 22:16:09"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-10-02 22:23:44",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 2,
+                    "start_time": "2020-10-02 22:23:42"
+                }
+            ]
+        },
+        {
+            "name": "Screen snipping",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2020-10-02 22:14:09",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 4,
+                    "start_time": "2020-10-02 22:14:05"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-10-02 22:15:28",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 9,
+                    "start_time": "2020-10-02 22:15:19"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-10-02 22:15:35",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 4,
+                    "start_time": "2020-10-02 22:15:31"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-10-02 22:16:08",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 6,
+                    "start_time": "2020-10-02 22:16:02"
+                }
+            ]
+        },
+        {
+            "name": "Media viewer",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2020-10-02 22:14:29",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 12,
+                    "start_time": "2020-10-02 22:14:17"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-10-02 22:15:54",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2020-10-02 22:15:53"
+                }
+            ]
+        },
+        {
+            "name": "Deluge",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2020-10-02 22:15:00",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 3,
+                    "start_time": "2020-10-02 22:14:57"
+                }
+            ]
+        },
+        {
+            "name": "EDDIE - Nein",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2020-10-02 22:15:13",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 4,
+                    "start_time": "2020-10-02 22:15:09"
+                }
+            ]
+        },
+        {
+            "name": "Ghost Dance - Raving",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2020-10-02 22:15:15",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 2,
+                    "start_time": "2020-10-02 22:15:13"
+                }
+            ]
+        },
+        {
+            "name": "NordVPN ",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2020-10-02 22:19:47",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 6,
+                    "start_time": "2020-10-02 22:19:41"
+                }
+            ]
+        },
+        {
+            "name": "Opening - Word",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2020-10-02 22:21:06",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2020-10-02 22:21:05"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-10-02 22:27:29",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2020-10-02 22:27:28"
+                }
+            ]
+        },
+        {
+            "name": "CV_en.doc  -  Protected View - Word",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2020-10-02 22:21:15",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 9,
+                    "start_time": "2020-10-02 22:21:06"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-10-02 22:27:39",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 10,
+                    "start_time": "2020-10-02 22:27:29"
+                }
+            ]
+        },
+        {
+            "name": "TimeTracker \u2013 habitica-user-data.json PyCharm",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2020-10-02 22:21:46",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 18,
+                    "start_time": "2020-10-02 22:21:28"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-10-02 22:26:01",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 9,
+                    "start_time": "2020-10-02 22:25:52"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-10-02 22:27:28",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 11,
+                    "start_time": "2020-10-02 22:27:17"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-10-02 22:27:42",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 3,
+                    "start_time": "2020-10-02 22:27:39"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-10-02 22:27:47",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 3,
+                    "start_time": "2020-10-02 22:27:44"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-10-02 22:27:57",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2020-10-02 22:27:56"
+                }
+            ]
+        },
+        {
+            "name": "TimeTracker \u2013 habitica_tracker.py PyCharm",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2020-10-02 22:21:47",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2020-10-02 22:21:46"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-10-02 22:25:03",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 48,
+                    "start_time": "2020-10-02 22:24:15"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-10-02 22:25:37",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 23,
+                    "start_time": "2020-10-02 22:25:14"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-10-02 22:25:52",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 7,
+                    "start_time": "2020-10-02 22:25:45"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-10-02 22:27:15",
+                    "hours": 0,
+                    "minutes": 1,
+                    "seconds": 14,
+                    "start_time": "2020-10-02 22:26:01"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-10-02 22:27:17",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2020-10-02 22:27:16"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-10-02 22:28:27",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 30,
+                    "start_time": "2020-10-02 22:27:57"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-10-02 22:29:24",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 10,
+                    "start_time": "2020-10-02 22:29:14"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-10-02 22:33:48",
+                    "hours": 0,
+                    "minutes": 3,
+                    "seconds": 32,
+                    "start_time": "2020-10-02 22:30:15"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-10-02 22:39:30",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 12,
+                    "start_time": "2020-10-02 22:39:18"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-10-02 22:46:17",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 11,
+                    "start_time": "2020-10-02 22:46:06"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-10-02 22:47:01",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 4,
+                    "start_time": "2020-10-02 22:46:57"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-10-02 22:52:14",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 30,
+                    "start_time": "2020-10-02 22:51:44"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-10-02 23:11:03",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 22,
+                    "start_time": "2020-10-02 23:10:41"
+                }
+            ]
+        },
+        {
+            "name": "TimeTracker \u2013 activity.py PyCharm",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2020-10-02 22:21:50",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2020-10-02 22:21:49"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-10-02 22:27:56",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 9,
+                    "start_time": "2020-10-02 22:27:47"
+                }
+            ]
+        },
+        {
+            "name": "deadmau5 - Moar Ghosts 'n' Stuff (feat. Rob Swire)",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2020-10-02 22:22:37",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 2,
+                    "start_time": "2020-10-02 22:22:35"
+                }
+            ]
+        },
+        {
+            "name": "i_o - 404 Anonymous",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2020-10-02 22:22:47",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 10,
+                    "start_time": "2020-10-02 22:22:37"
+                }
+            ]
+        },
+        {
+            "name": "Spotify Premium",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2020-10-02 22:22:48",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2020-10-02 22:22:47"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-10-02 22:29:53",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2020-10-02 22:29:52"
+                }
+            ]
+        },
+        {
+            "name": "Tritonal - Born Yesterday",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2020-10-02 22:22:54",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 6,
+                    "start_time": "2020-10-02 22:22:48"
+                }
+            ]
+        },
+        {
+            "name": "Jay Robinson - What You Do - Radio Edit",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2020-10-02 22:23:02",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 8,
+                    "start_time": "2020-10-02 22:22:54"
+                }
+            ]
+        },
+        {
+            "name": "Demjen Ferenc - Szerelemvonat",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2020-10-02 22:23:04",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 2,
+                    "start_time": "2020-10-02 22:23:02"
+                }
+            ]
+        },
+        {
+            "name": "Szandi - Tin\u00e9dzser l'amour",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2020-10-02 22:23:41",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 37,
+                    "start_time": "2020-10-02 22:23:04"
+                }
+            ]
+        },
+        {
+            "name": "Telegram",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2020-10-02 22:23:50",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 6,
+                    "start_time": "2020-10-02 22:23:44"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-10-02 22:24:11",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 5,
+                    "start_time": "2020-10-02 22:24:06"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-10-02 22:29:01",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 12,
+                    "start_time": "2020-10-02 22:28:49"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-10-02 22:37:07",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 29,
+                    "start_time": "2020-10-02 22:36:38"
+                }
+            ]
+        },
+        {
+            "name": "habitica.com",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2020-10-02 22:25:13",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 9,
+                    "start_time": "2020-10-02 22:25:03"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-10-02 22:25:41",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 4,
+                    "start_time": "2020-10-02 22:25:37"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-10-02 22:28:31",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 3,
+                    "start_time": "2020-10-02 22:28:27"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-10-02 22:41:27",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2020-10-02 22:41:26"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-10-02 22:41:34",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2020-10-02 22:41:33"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-10-02 22:45:39",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 4,
+                    "start_time": "2020-10-02 22:45:34"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-10-02 22:45:56",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2020-10-02 22:45:55"
+                }
+            ]
+        },
+        {
+            "name": "Move",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2020-10-02 22:27:16",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2020-10-02 22:27:15"
+                }
+            ]
+        },
+        {
+            "name": "Delete",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2020-10-02 22:27:44",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 2,
+                    "start_time": "2020-10-02 22:27:42"
+                }
+            ]
+        },
+        {
+            "name": "Skype",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2020-10-02 22:28:49",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2020-10-02 22:28:48"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-10-02 22:29:05",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 4,
+                    "start_time": "2020-10-02 22:29:01"
+                }
+            ]
+        },
+        {
+            "name": "ASIAN KUNG-FU GENERATION - Blood Circulator",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2020-10-02 22:29:52",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 27,
+                    "start_time": "2020-10-02 22:29:25"
+                }
+            ]
+        },
+        {
+            "name": "KANA-BOON - Silhouette",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2020-10-02 22:30:03",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 10,
+                    "start_time": "2020-10-02 22:29:53"
+                }
+            ]
+        },
+        {
+            "name": "Namie Amuro - Hope",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2020-10-02 22:30:13",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 10,
+                    "start_time": "2020-10-02 22:30:03"
+                }
+            ]
+        },
+        {
+            "name": "Gang Starr - Nice Girl, Wrong Place",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2020-10-02 22:30:15",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 2,
+                    "start_time": "2020-10-02 22:30:13"
+                }
+            ]
+        },
+        {
+            "name": "h",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2020-10-02 22:38:44",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2020-10-02 22:38:43"
+                }
+            ]
+        },
+        {
+            "name": "ha",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2020-10-02 22:38:45",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2020-10-02 22:38:44"
+                }
+            ]
+        },
+        {
+            "name": "habi",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2020-10-02 22:38:46",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2020-10-02 22:38:45"
+                }
+            ]
+        },
+        {
+            "name": "habit",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2020-10-02 22:39:18",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 31,
+                    "start_time": "2020-10-02 22:38:46"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-10-02 22:40:12",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 42,
+                    "start_time": "2020-10-02 22:39:30"
+                }
+            ]
+        },
+        {
+            "name": "Opening - Excel",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2020-10-02 22:41:36",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2020-10-02 22:41:35"
+                }
+            ]
+        },
+        {
+            "name": "habitica-tasks-history.csv - Excel",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2020-10-02 22:43:44",
+                    "hours": 0,
+                    "minutes": 2,
+                    "seconds": 8,
+                    "start_time": "2020-10-02 22:41:36"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-10-02 22:45:09",
+                    "hours": 0,
+                    "minutes": 1,
+                    "seconds": 23,
+                    "start_time": "2020-10-02 22:43:46"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-10-02 22:56:15",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 9,
+                    "start_time": "2020-10-02 22:56:06"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-10-02 22:56:24",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 7,
+                    "start_time": "2020-10-02 22:56:17"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-10-02 22:57:28",
+                    "hours": 0,
+                    "minutes": 1,
+                    "seconds": 1,
+                    "start_time": "2020-10-02 22:56:27"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-10-02 22:57:33",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 4,
+                    "start_time": "2020-10-02 22:57:29"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-10-02 22:58:35",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 53,
+                    "start_time": "2020-10-02 22:57:42"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-10-02 22:58:47",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 8,
+                    "start_time": "2020-10-02 22:58:39"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-10-02 22:59:02",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 11,
+                    "start_time": "2020-10-02 22:58:51"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-10-02 22:59:05",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 2,
+                    "start_time": "2020-10-02 22:59:03"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-10-02 22:59:19",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 11,
+                    "start_time": "2020-10-02 22:59:08"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-10-02 23:01:13",
+                    "hours": 0,
+                    "minutes": 1,
+                    "seconds": 48,
+                    "start_time": "2020-10-02 22:59:24"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-10-02 23:01:28",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 8,
+                    "start_time": "2020-10-02 23:01:20"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-10-02 23:01:34",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 3,
+                    "start_time": "2020-10-02 23:01:31"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-10-02 23:01:46",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 9,
+                    "start_time": "2020-10-02 23:01:37"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-10-02 23:02:21",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 33,
+                    "start_time": "2020-10-02 23:01:48"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-10-02 23:02:24",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2020-10-02 23:02:23"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-10-02 23:02:28",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2020-10-02 23:02:27"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-10-02 23:02:49",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 19,
+                    "start_time": "2020-10-02 23:02:30"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-10-02 23:03:09",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 19,
+                    "start_time": "2020-10-02 23:02:50"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-10-02 23:03:54",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 42,
+                    "start_time": "2020-10-02 23:03:12"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-10-02 23:04:02",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 3,
+                    "start_time": "2020-10-02 23:03:59"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-10-02 23:04:09",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 2,
+                    "start_time": "2020-10-02 23:04:07"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-10-02 23:04:19",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 8,
+                    "start_time": "2020-10-02 23:04:11"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-10-02 23:05:38",
+                    "hours": 0,
+                    "minutes": 1,
+                    "seconds": 14,
+                    "start_time": "2020-10-02 23:04:24"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-10-02 23:06:16",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 7,
+                    "start_time": "2020-10-02 23:06:09"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-10-02 23:06:35",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 16,
+                    "start_time": "2020-10-02 23:06:19"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-10-02 23:06:48",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 11,
+                    "start_time": "2020-10-02 23:06:37"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-10-02 23:07:04",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 14,
+                    "start_time": "2020-10-02 23:06:50"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-10-02 23:07:07",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2020-10-02 23:07:06"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-10-02 23:08:55",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 49,
+                    "start_time": "2020-10-02 23:08:06"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-10-02 23:09:15",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 18,
+                    "start_time": "2020-10-02 23:08:57"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-10-02 23:09:18",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 2,
+                    "start_time": "2020-10-02 23:09:16"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-10-02 23:10:05",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 46,
+                    "start_time": "2020-10-02 23:09:19"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-10-02 23:10:39",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 33,
+                    "start_time": "2020-10-02 23:10:06"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-10-02 23:11:18",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 3,
+                    "start_time": "2020-10-02 23:11:15"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-10-02 23:11:22",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 2,
+                    "start_time": "2020-10-02 23:11:20"
+                }
+            ]
+        },
+        {
+            "name": "C:\\Users\\gergo\\Pictures\\habitica-user-data.json",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2020-10-02 22:45:58",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2020-10-02 22:45:57"
+                }
+            ]
+        },
+        {
+            "name": "C:",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2020-10-02 22:46:42",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 3,
+                    "start_time": "2020-10-02 22:46:38"
+                }
+            ]
+        },
+        {
+            "name": "Visual Studio Code",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2020-10-02 22:47:02",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2020-10-02 22:47:01"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-10-02 22:47:13",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2020-10-02 22:47:12"
+                }
+            ]
+        },
+        {
+            "name": "Release Notes: 1.49.2 - Visual Studio Code",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2020-10-02 22:47:05",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2020-10-02 22:47:04"
+                }
+            ]
+        },
+        {
+            "name": "Welcome - TimeTracker - Visual Studio Code",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2020-10-02 22:47:16",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 3,
+                    "start_time": "2020-10-02 22:47:13"
+                }
+            ]
+        },
+        {
+            "name": "habitica-user-data.json - TimeTracker - Visual Studio Code",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2020-10-02 22:48:38",
+                    "hours": 0,
+                    "minutes": 1,
+                    "seconds": 22,
+                    "start_time": "2020-10-02 22:47:16"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-10-02 22:48:46",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2020-10-02 22:48:45"
+                }
+            ]
+        },
+        {
+            "name": "\u25cf habitica-user-data.json - TimeTracker - Visual Studio Code",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2020-10-02 22:48:45",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 7,
+                    "start_time": "2020-10-02 22:48:38"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-10-02 22:48:48",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 2,
+                    "start_time": "2020-10-02 22:48:46"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-10-02 22:51:44",
+                    "hours": 0,
+                    "minutes": 2,
+                    "seconds": 49,
+                    "start_time": "2020-10-02 22:48:54"
+                }
+            ]
+        },
+        {
+            "name": "Setup",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2020-10-02 22:48:54",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 6,
+                    "start_time": "2020-10-02 22:48:48"
+                }
+            ]
+        },
+        {
+            "name": "Sort Warning",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2020-10-02 22:56:27",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 2,
+                    "start_time": "2020-10-02 22:56:25"
+                }
+            ]
+        },
+        {
+            "name": "Insert Chart",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2020-10-02 23:01:20",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 7,
+                    "start_time": "2020-10-02 23:01:13"
+                }
+            ]
+        },
+        {
+            "name": "Microsoft Excel",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2020-10-02 23:07:06",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 2,
+                    "start_time": "2020-10-02 23:07:04"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-10-02 23:07:37",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 4,
+                    "start_time": "2020-10-02 23:07:33"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-10-02 23:07:46",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2020-10-02 23:07:45"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-10-02 23:07:50",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 3,
+                    "start_time": "2020-10-02 23:07:47"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-10-02 23:08:03",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 5,
+                    "start_time": "2020-10-02 23:07:58"
+                }
+            ]
+        },
+        {
+            "name": "Select Data Source",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2020-10-02 23:07:16",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 9,
+                    "start_time": "2020-10-02 23:07:07"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-10-02 23:07:29",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 8,
+                    "start_time": "2020-10-02 23:07:21"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-10-02 23:08:06",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 2,
+                    "start_time": "2020-10-02 23:08:04"
+                }
+            ]
+        },
+        {
+            "name": "Edit Series",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2020-10-02 23:07:21",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 5,
+                    "start_time": "2020-10-02 23:07:16"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-10-02 23:07:33",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 4,
+                    "start_time": "2020-10-02 23:07:29"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-10-02 23:07:45",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 8,
+                    "start_time": "2020-10-02 23:07:37"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-10-02 23:07:47",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2020-10-02 23:07:46"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-10-02 23:07:58",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 8,
+                    "start_time": "2020-10-02 23:07:50"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-10-02 23:08:04",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2020-10-02 23:08:03"
+                }
+            ]
+        },
+        {
+            "name": "Create Sparklines",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2020-10-02 23:09:16",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2020-10-02 23:09:15"
+                }
+            ]
+        },
+        {
+            "name": "Telegram Desktop",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2020-10-02 23:11:20",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 2,
+                    "start_time": "2020-10-02 23:11:18"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-10-02 23:12:58",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 3,
+                    "start_time": "2020-10-02 23:12:55"
+                }
+            ]
+        },
+        {
+            "name": "GitHub Desktop",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2020-10-02 23:11:39",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 13,
+                    "start_time": "2020-10-02 23:11:26"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-10-02 23:12:54",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 9,
+                    "start_time": "2020-10-02 23:12:45"
+                }
+            ]
+        },
+        {
+            "name": "Delete Folder",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2020-10-02 23:13:13",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 2,
+                    "start_time": "2020-10-02 23:13:11"
                 }
             ]
         }
