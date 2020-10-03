@@ -17,13 +17,21 @@ headers = {
 
 
 json_payload = {
-    "text": "Test Habit",
-    "type": "habit",
+    "text": "Test TODO",
+    "type": "todo",
     "alias": "hab-api-habitka1",
     "notes": "This is a test task that was set with the python requests module.",
     "priority": 2,
 }
 
+json_payload = {
+    "type": "todo",
+
+}
+
+
 
 response = requests.post("https://habitica.com/api/v3/tasks/user", json=json_payload, headers=headers)
+response = requests.get("https://habitica.com/api/v3/tasks/user", json=json_payload, headers=headers)
+requests.get()
 print(response)
