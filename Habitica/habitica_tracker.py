@@ -17,21 +17,21 @@ headers = {
 
 
 json_payload = {
-    "text": "Test TODO",
+    "text": "Show my wife the pyhton script I made",
     "type": "todo",
-    "alias": "hab-api-habitka1",
+    "alias": "hab-api-_todo",
     "notes": "This is a test task that was set with the python requests module.",
     "priority": 2,
 }
 
-json_payload = {
-    "type": "todo",
-
-}
+# json_payload = {
+#     "type": "todo",
+#
+# }
 
 
 
 response = requests.post("https://habitica.com/api/v3/tasks/user", json=json_payload, headers=headers)
-response = requests.get("https://habitica.com/api/v3/tasks/user", json=json_payload, headers=headers)
-requests.get()
+#response = requests.get("https://habitica.com/api/v3/tasks/user", json=json_payload, headers=headers)
+#requests.get("https://habitica.com/api/v3/tasks/user")
 print(response)
