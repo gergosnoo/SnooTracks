@@ -21,13 +21,13 @@ class AcitivyList:
             return_list.append(
                 Activity(
                     name=activity['name'],
-                    time_entries=self.get_time_entires_from_json(activity),
+                    time_entries=self.get_time_entries_from_json(activity),
                 )
             )
         self.activities = return_list
         return return_list
 
-    def get_time_entires_from_json(self, data):
+    def get_time_entries_from_json(self, data):
         return_list = []
         for entry in data['time_entries']:
             return_list.append(
@@ -64,10 +64,10 @@ class Activity:
     def serialize(self):
         return {
             'name': self.name,
-            'time_entries': self.make_time_entires_to_json()
+            'time_entries': self.make_time_entries_to_json()
         }
 
-    def make_time_entires_to_json(self):
+    def make_time_entries_to_json(self):
         time_list = []
         for time in self.time_entries:
             time_list.append(time.serialize())
